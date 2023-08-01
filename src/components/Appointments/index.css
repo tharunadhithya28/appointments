@@ -1,0 +1,24 @@
+.top-left-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.inner-container {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: pink;
+  height: 100vh;
+}
+.top-container {
+  display: flex;
+}
+.appointments {
+  display: flex;
+}
